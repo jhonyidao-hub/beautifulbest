@@ -1,0 +1,5 @@
+{
+  "name": "TailorAI - Custom Apparel Design",
+  "description": "An intelligent fashion design platform that generates photorealistic clothing previews based on fabric, style, and measurements using Generative AI.",
+  "requestFramePermissions": []
+}
